@@ -30,7 +30,7 @@ This project simulates an end-to-end Business Intelligence workflow covering:
 
 <p align="center">
   <a href="https://datastudio.google.com/reporting/d1b6ef47-5646-4431-be81-304f725fecae/page/57UzF">
-    <img src="https://raw.githubusercontent.com/zfrhadis10/Kimia-Farma-Performance-Analytics/main/images/Dashboard%20Preview.jpg" alt="Kimia Farma Dashboard" width="50%">
+    <img src="https://raw.githubusercontent.com/zfrhadis10/Kimia-Farma-Performance-Analytics/main/images/Dashboard%20Preview.jpg" alt="Kimia Farma Dashboard" width="70%">
   </a>
 </p>
 
