@@ -292,5 +292,6 @@ Aspiring Data Analyst | Data Analytics Graduate
 
 📧 zafirah.adistaa@gmail.com
 
-🔗 LinkedIn: [Zafirah Aida Adista](https://www.linkedin.com/in/zafirah-aida-adista-162ab8379/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zafirah_Aida_Adista-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zafirah-aida-adista-162ab8379/)
+[![GitHub](https://img.shields.io/badge/GitHub-zfrhadis10-181717?style=for-the-badge&logo=github)](https://github.com/zfrhadis10)
 ---
